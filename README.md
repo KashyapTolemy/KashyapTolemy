@@ -4,7 +4,7 @@
 
 <p align="center">
  
-<img src="https://github.com/KashyapTolemy/KashyapTolemy/blob/main/banner/3.png" alt="Image" width="200" height="150">
+<img src="https://github.com/KashyapTolemy/KashyapTolemy/blob/main/banner/3.png" alt="Image" width="400" height="250">
 
 </p>
 
