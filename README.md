@@ -1,4 +1,4 @@
-<h2> Hi There, I'm Tolemy Kashyap 👋</h2>
+<h2 align = "center"> Hi There, I'm Tolemy Kashyap 👋</h2>
 
 -----
 
@@ -7,8 +7,6 @@
 <img src="https://github.com/KashyapTolemy/KashyapTolemy/blob/main/banner/3.png" alt="Image" width="400" height="250">
 
 </p> -->
-
------
 
 ### 👨🏻‍💻 &nbsp;About Me
 
